@@ -83,8 +83,8 @@ This repository contains a case study on the "BookMyShow" application. The goal 
 
 ## Contributors
 
-- **Your Name** (your.email@example.com)
-- **Collaborator Name** (collaborator.email@example.com)
+- **Your Name** (dhanushrajashekar1315@gmail.com)
+
 
 ## Acknowledgments
 
